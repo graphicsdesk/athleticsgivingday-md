@@ -7,12 +7,94 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia Athletics had its most successful Giving Day to date last Tuesday, raking in $4,513,871 in donations over the course of 24 hours."
+          },
+          {
+            "type": "text",
+            "value": "The record-breaking amount stands in stark contrast to other Columbia schools and institutions, the majority of which <a href=\"https://www.columbiaspectator.com/news/2024/10/03/columbia-giving-day-donations-down-significantly-amid-donor-crisis/\">experienced a decrease in donations</a> compared to previous Giving Days."
+          },
+          {
+            "type": "text",
+            "value": "The football team raised the most money out of all sports teams, earning nearly half a million dollars. Following them was the women’s basketball team at $340,713.88, on the heels of a historically successful season. Cross country and track and field also had a strong Giving Day, jointly raising $208,592.63 and cementing themselves in the top three teams for donations."
+          },
+          {
+            "type": "text",
+            "value": "Columbia Athletics has consistently been a top Giving Day earner since the event was established in 2012. When Giving Day was last held in 2022, Columbia Athletics brought in $3,369,021 in donations. In 2023, Giving Day was indefinitely postponed amid campus tensions over violence in Israel and Gaza."
+          },
+          {
+            "type": "text",
+            "value": "The funds raised from this year’s Giving Day represent a jump of over $1 million in donations, or around a 34 percent increase from Giving Day in 2022. This amount surpassed Columbia Athletics’ previous Giving Day record from 2018, when it raised $4,125,563."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "totals.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The football team, which  finished the 2023 season with a 3-7 record overall and a 1-6 record in conference play, continued its dominance in Giving Day as the top-earning team for Columbia Athletics. Football, maintaining a massive alumni network, has often emerged as a strong Giving Day performer and brought in $431,026.85 this year."
+          },
+          {
+            "type": "text",
+            "value": "With the 2024 football season underway, the Lions’ chances in the Ivy League this year are already looking up. Under the leadership of newly appointed head coach Jon Poppe, the team opened its season with <a href=\"https://www.columbiaspectator.com/sports/2024/09/22/football-kicks-off-season-with-revenge-win-against-no-14-lafayette-college/\">an upset win against Lafayette College </a>in September before <a href=\"https://www.columbiaspectator.com/sports/2024/10/06/football-kicks-off-ivy-league-play-with-34-17-rout-of-princeton/\">crushing Princeton this past Saturday</a>."
+          },
+          {
+            "type": "text",
+            "value": "While many teams, like rowing and men’s tennis, saw increases in gifts compared to the 2022 Giving Day, the amounts likely won’t make up for the money lost with the postponement of last year’s event. Some teams, like women’s golf and men’s swimming, also saw decreases in the amount of gift money they received. In 2022, men’s swimming took home $114,824.07. This year, the team’s Giving Day haul was $95,536.95, around a 20 percent decrease in donations."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "teams.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "A total of 5,314 gifts were made to Columbia Athletics on Giving Day. Fencing, which finished in third place at the NCAA Championships last spring, had the most gifts at 726, despite placing 13th overall in total funds raised. In comparison, football collected their Giving Day donation from across 161 gifts."
+          },
+          {
+            "type": "text",
+            "value": "Notably, the women’s basketball team saw a major increase in its donation money this year, garnering $340,713.88 from 330 gifts. In 2022, the women’s basketball team raised $114,243.21 after coming off a quarterfinal performance in the Women’s National Invitational Tournament to close out the 2021-22 season. Since then, the team has reached even greater heights, capturing the Ivy League title two years in a row and securing a bid to March Madness this year."
+          },
+          {
+            "type": "text",
+            "value": "Following the record-setting Giving Day, Athletic Director Peter Pilling showed appreciation for the donors who had contributed."
+          },
+          {
+            "type": "text",
+            "value": "“We are extremely grateful for the support that we received from our Columbia Athletics community on a record-breaking Giving Day,” Pilling said in a <a href=\"https://gocolumbialions.com/news/2024/10/2/general-athletics-raises-record-4-51-million-on-giving-day.aspx\">press release</a>."
+          },
+          {
+            "type": "text",
+            "value": "“Their loyalty and dedication to our programs is unmatched and shows what a special place Columbia is. The money raised will help us continue to give our student-athletes a first-class experience in all aspects of their journey at Columbia,” Pilling added. “Thank you to everyone who contributed to this remarkable achievement.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Sports Editor Heather Chen can be contacted at </i><a href=\"mailto:heather.chen@columbiaspectator.com\"><i>heather.chen@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/heatherweixi\"><i>@heatherweixi</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>. Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>..</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia Athletics sets new record with $4.51 million raised on Giving Day",
+        "date": "October 11, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/heather-chen/\">Heather Chen</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/molly-durawa/\">Molly Durawa</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RRWDKBIHNZENNPSXB3E3BGA2BI.jpg",
+        "cover_caption": "Giada Robinson / Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1HqclVV48NArp22H5D95d0WElt-e1qeEAg0eytKxG9Ec/edit?tab=t.0"
       }
     }
   }
